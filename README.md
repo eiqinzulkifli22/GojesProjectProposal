@@ -6,7 +6,7 @@ The application that we are going to develop is mobile application and the name 
 ### 1.2 PROBLEM DESCRIPTION
 #### 1.2.1  Background of the problem
  
-The system intended to be developed is a mobile application while the target users will be men and women who are concern with their calories intake and burnt. Normally, when people take their meal, they are unaware of the calorie intakes. This can be detrimental because ones might take too much calories while ones might consume too little calories for their body. Moreover, the calories intake for each individual is different according to some factors for instance age, gender, weight and exercise level.
+The system intended to be developed is a mobile application while the target users will be men and women who are concern with their calories intake and burned. Normally, when people take their meal, they are unaware of the calorie amount. This can be detrimental because ones might take too much calories while ones might consume too little calories for their body. Moreover, the calories intake for each individual is different according to some factors for instance age, gender, weight and exercise level.
 
 #### 1.2.2 Problem Statement 
 Sometimes it is hard to locate the calories of food products due to too many information on the products’ cover/ packaging/ plastic and the font used can be too small to read. The information provided on the foods’ packaging does not include how many calories intake is suitable for each individual. It takes time to calculate manually the number of calories needed and burned for each person.
@@ -51,9 +51,9 @@ Milestone 5: 28/12/18
 ### 1.7 SIGNIFICANCE OF THE PROJECT
 
 The significance of Calorie Tracker will benefit:
-- Males or females who want to keep track of their calories this portable mobile application.
+- Males or females who want to keep track of their calories with this portable mobile application.
 - People who want to know the total number of calories for a specific food or the food they will consume.
-- Making life easier or the people who wants to know how many calories burned in each day.
+- Making life easier for the people who wants to know how many calories burned in each day.
 - Give concern and awareness to the people about their healthy lifestyle.
 
 ### 1.8 SUMMARY
