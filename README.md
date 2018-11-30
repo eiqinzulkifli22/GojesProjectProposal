@@ -1,7 +1,7 @@
 # CalorieTracker
 
 ### 1.1 INTRODUCTION
-The application that we are going to develop is mobile application and the name is given as Calorie Tracker. The target users of this system is public people and for those who concern about their health especially calorie intake in daily. We plan to do several functions such as scan the food calories, calculate the user’s calorie intake and calculate the calorie burns by pedometer. More details will be explain in this proposal below.
+The application that we are going to develop is mobile application and the name is given as Calorie Tracker. The target users of this system is public people and for those who concern about their health especially daily calorie intake. We plan to do several functions such as scan the food calories, calculate the user’s calorie intake and calculate the calorie burns by pedometer. More details will be explain in this proposal below.
 
 ### 1.2 PROBLEM DESCRIPTION
 #### 1.2.1  Background of the problem
@@ -28,26 +28,7 @@ In developing Calorie Tracker, Android platform will be used in order to develop
 The constraints in developing this application will be limited machine because some of the team members use native code with emulator while the others are using expo app. Besides, other constraints will be skills in creating every function and combining them into one app.
 
 ### 1.6 PROJECT STAGES
-Task 1: Prepare the proposal
-Task date: 24/11/18 – 30/11/18
-Milestone 1: 30/11/2018
-
-Task 2: Analysis and Design
-Task date: 1/12/18 – 7/12/18
-Milestone 2: 7/11/18
-
-Task 3: Development
-Task Date: 8/12/18-28/12/18
-Milestone 3: 14/12/18
-Mielstone 4: 21/12/18
-
-Task 4: Presentation
-Task date: (expected date) 31/12/18
-
-Task 5: Submission
-Task date: (expected date) 31/12/18
-Milestone 5: 28/12/18
-
+Discuss the major milestones of your project (Gantt Chart) i.e. what are they & by what specific dates (when) they will be produced. 
 
 ### 1.7 SIGNIFICANCE OF THE PROJECT
 
