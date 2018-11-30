@@ -28,7 +28,25 @@ In developing Calorie Tracker, Android platform will be used in order to develop
 The constraints in developing this application will be limited machine because some of the team members use native code with emulator while the others are using expo app. Besides, other constraints will be skills in creating every function and combining them into one app.
 
 ### 1.6 PROJECT STAGES
-Discuss the major milestones of your project (Gantt Chart) i.e. what are they & by what specific dates (when) they will be produced. 
+Task 1: Prepare the proposal
+Task date: 24/11/18 – 30/11/18
+Milestone 1: 30/11/2018
+
+Task 2: Analysis and Design
+Task date: 1/12/18 – 7/12/18
+Milestone 2: 7/11/18
+
+Task 3: Development
+Task Date: 8/12/18-28/12/18
+Milestone 3: 14/12/18
+Mielstone 4: 21/12/18
+
+Task 4: Presentation
+Task date: expected date (31/12/18)
+
+Task 5: Submission
+Task date: expected date (31/12/18)
+Milestone 5: 28/12/18
 
 ### 1.7 SIGNIFICANCE OF THE PROJECT
 
